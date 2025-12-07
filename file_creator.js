@@ -52,6 +52,7 @@ topics.forEach(topic => {
     fs.mkdirSync(fullPath);
   }
 });
-f
+
+fz
 e
 console.log(`✅ All folders created inside '${parentFolder}'`);
